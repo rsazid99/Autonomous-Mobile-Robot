@@ -2,7 +2,7 @@
 
 This project involves the development of an **Autonomous Mobile Robot** using multiple sensors for perception and navigation. The system is designed to operate autonomously in various environments, utilizing real-time sensor data for decision-making and path planning.
 
-![Autonomous Mobile Robot](./pic/Mr_Hexo.jpeg)
+![Autonomous Mobile Robot](./pic/updated_Robot_pic.jpeg)
 
 ## Project Timeline
 **Start Date:** January 2024  
