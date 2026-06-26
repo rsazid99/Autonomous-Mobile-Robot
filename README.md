@@ -1,4 +1,4 @@
-# Autonomous-Mobile-Robot-Mr.-Hexo
+# Autonomous-Mobile-Robot
 
 This project involves the development of an **Autonomous Mobile Robot** using multiple sensors for perception and navigation. The system is designed to operate autonomously in various environments, utilizing real-time sensor data for decision-making and path planning.
 
