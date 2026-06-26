@@ -2,10 +2,10 @@
 
 This project involves the development of an **Autonomous Mobile Robot** using multiple sensors for perception and navigation. The system is designed to operate autonomously in various environments, utilizing real-time sensor data for decision-making and path planning.
 
-![Autonomous Mobile Robot](./pic/updated_Robot_pic.jpeg)
+![Autonomous Mobile Robot](./pic/4wd_skid_steer.jpeg)
 
 ## Project Timeline
-**Start Date:** January 2024  
+**Start Date:** June 2026  
 **Current Status:** In Development
 
 ## Components
@@ -16,7 +16,6 @@ The following components are used in the development of the Autonomous Mobile Ro
 - **Intel Realsense d456:** Depth camera for capturing high-resolution depth data, enabling 3D mapping and perception.
 - **TI AWR1843Boost Radar Sensor with DCA1000EVA FPGA board:** Radar sensor for robust object detection, even in low-visibility conditions (e.g., fog, dust).
 - **Jetson Orin NX 16GB:** NVIDIA Jetson development platform that serves as the robot's primary computing unit, handling sensor data processing, AI computations, and control systems.
-- **Waveshare UGV02:** This UGV is used as a main robotic base platform.
 
 ## Features
 - **Multi-Sensor Fusion:** Combines data from LiDAR, Stereo Depth camera, and radar for improved perception and decision-making.
