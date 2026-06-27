@@ -1,6 +1,6 @@
 # Autonomous-Mobile-Robot
 
-This project involves the development of an **Autonomous Mobile Robot** using multiple sensors for perception and navigation. The system is designed to operate autonomously in various environments, utilizing real-time sensor data for decision-making and path planning.
+This project involves the development of a **4WD Skid Steer Mobile Robot Platform** using multiple sensors for perception and navigation. The system is designed to operate autonomously in various environments, utilizing real-time sensor data for decision-making and path planning.
 
 ![Autonomous Mobile Robot](./pic/4wd_skid_steer.jpeg)
 
