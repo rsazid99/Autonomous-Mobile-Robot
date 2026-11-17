@@ -49,7 +49,7 @@ Layout of the enclosure:
 
 Low-level motion control is handled by a separate ROS 2 package:
 
-👉 **[robot_4wd_dds115_base_controller_ros2](https://github.com/rsazid99/robot_4wd_dds115_base_controller_ros2)**
+👉 **[robot_base_controller_ros2](https://github.com/rsazid99/robot_base_controller)**
 
 A ROS 2 Jazzy C++ node that drives the four DDSM115 hub motors over RS485 and closes the loop between `/cmd_vel` and wheel odometry.
 
