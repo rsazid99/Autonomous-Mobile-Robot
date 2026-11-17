@@ -49,7 +49,7 @@ Layout of the enclosure:
 
 Low-level motion control is handled by a separate ROS 2 package:
 
-👉 **[robot_base_controller_ros2](https://github.com/rsazid99/robot_base_controller)**
+👉 **[robot_base_controller](https://github.com/rsazid99/robot_base_controller)**
 
 A ROS 2 Jazzy C++ node that drives the four DDSM115 hub motors over RS485 and closes the loop between `/cmd_vel` and wheel odometry.
 
@@ -85,4 +85,4 @@ Before setting up the project, make sure you have the following:
 - Libraries and drivers for each sensor:
   - [Livox SDK](https://github.com/Livox-SDK/Livox-SDK2)
   - [Intel Realsense SDK](https://github.com/IntelRealSense/librealsense)
-- Base controller package: [robot_4wd_dds115_base_controller_ros2](https://github.com/rsazid99/robot_4wd_dds115_base_controller_ros2)
+- Base controller package: [robot_base_controller](https://github.com/rsazid99/robot_base_controller)
